@@ -1,6 +1,6 @@
 # Rust mdBook linux musl release
 
-Latest Build Source Code: https://github.com/rust-lang/mdBook/tree/2f5e89f3ec05b6cc08c1ae5914e7db5953489fda
+Latest Build Source Code: https://github.com/rust-lang/mdBook/tree/4cf005d4bd480d324990d82f028880c77692adab
 
 ## Cloudflare Pages Example
 
