@@ -1,6 +1,10 @@
 # Rust mdBook linux musl release
 
-Latest Build Source Code: https://github.com/rust-lang/mdBook/tree/92afe9bd3c220eded410b91bffe8cf17d1eca129
+[https://github.com/rust-lang/mdBook](https://github.com/rust-lang/mdBook)
+
+```bash
+cross build --release --target x86_64-unknown-linux-musl
+```
 
 ## Cloudflare Pages Example
 
